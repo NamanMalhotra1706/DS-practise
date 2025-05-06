@@ -1,4 +1,4 @@
-
+package day1;
 /*
 Given a 6X6 2D array, an hourglass is a subset of values with indices falling in the following pattern:
 a b c
